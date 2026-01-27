@@ -109,3 +109,27 @@ def clean_antal(df):
     df["antal"] = pd.to_numeric(col, errors="coerce")
 
     return df
+
+def clean_kundtyp(df):
+    
+    col = (
+        df["kundtyp"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+    )
+
+    mapping = {
+        "privat": "private",
+        "konsument": "private",
+        "b2c": "private",
+
+        "företag": "business",
+        "firma": "business",
+        "b2b": "business",
+    }
+
+    col = col.replace(mapping)
+
+    df["kundtyp"] = col
+    return df

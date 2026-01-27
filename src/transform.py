@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 
 
+def clean_column_names(df):
+    df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
+    return df
+
+
 def clean_date(df):
     date_cols = ["orderdatum", "leveransdatum", "recensionsdatum"]
 
@@ -110,20 +115,14 @@ def clean_antal(df):
 
     return df
 
+
 def clean_kundtyp(df):
-    
-    col = (
-        df["kundtyp"]
-        .astype(str)
-        .str.strip()
-        .str.lower()
-    )
+    col = df["kundtyp"].astype(str).str.strip().str.lower()
 
     mapping = {
         "privat": "private",
         "konsument": "private",
         "b2c": "private",
-
         "företag": "business",
         "firma": "business",
         "b2b": "business",
@@ -134,14 +133,9 @@ def clean_kundtyp(df):
     df["kundtyp"] = col
     return df
 
-def clean_leveransstatus(df):
 
-    col = (
-        df["leveransstatus"]
-        .astype(str)
-        .str.strip()
-        .str.lower()
-    )
+def clean_leveransstatus(df):
+    col = df["leveransstatus"].astype(str).str.strip().str.lower()
 
     mapping = {
         "levererad": "delivered",
@@ -164,4 +158,3 @@ def clean_leveransstatus(df):
 
     df["leveransstatus"] = col
     return df
-

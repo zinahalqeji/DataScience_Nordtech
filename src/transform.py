@@ -75,3 +75,37 @@ def clean_payment(df):
 
     df["betalmetod"] = df["betalmetod"].fillna("unknown")
     return df
+
+
+def clean_antal(df):
+    word_map = {
+        "en": 1,
+        "ett": 1,
+        "två": 2,
+        "tva": 2,
+        "tre": 3,
+        "fyra": 4,
+        "fem": 5,
+        "sex": 6,
+        "sju": 7,
+        "åtta": 8,
+        "nio": 9,
+        "tio": 10,
+    }
+
+    # Step 1: convert to string
+    col = df["antal"].astype(str).str.lower().str.strip()
+
+    # Step 2: remove quotes
+    col = col.str.replace('"', "", regex=False)
+
+    # Step 3: remove "st" and spaces
+    col = col.str.replace("st", "", regex=False).str.strip()
+
+    # Step 4: replace Swedish words
+    col = col.replace(word_map)
+
+    # Step 5: convert to numeric
+    df["antal"] = pd.to_numeric(col, errors="coerce")
+
+    return df

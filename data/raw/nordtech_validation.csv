@@ -1,0 +1,462 @@
+order_id,orderrad_id,orderdatum,leveransdatum,produkt_sku,produktnamn,kategori,antal,pris_per_enhet,region,kundtyp,betalmetod,kund_id,leveransstatus,recension_text,recensionsdatum,betyg
+ORD-2025-00001,ORD-2025-00001-1,2025-01-29,2025-01-31,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Kort,KND-30258,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-02-08,4
+ORD-2025-00002,ORD-2025-00002-1,2025-02-25,2025-02-27,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,stckhlm,Företag,Faktura,KND-98707,Levererad,,,
+ORD-2025-00002,ORD-2025-00002-2,2025-02-25,2025-02-27,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Företag,Faktura,KND-98707,Levererad,,,
+ORD-2025-00002,ORD-2025-00002-3,2025/02/25,2025-02-27,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,"2 499,00",Stocholm,Företag,Faktura,KND-98707,Levererad,,,
+ORD-2025-00002,ORD-2025-00002-4,2025-02-25,2025-02-27,SKU-HS001,Headset Pro ANC,Ljud,2,1899.00,Stockholm,Företag,Faktura,KND-98707,Levererad,Helt underbar kvalitet för pengarna.,2025-03-08,4
+ORD-2025-00003,ORD-2025-00003-1,2025-01-12,2025-01-14,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Göteborg,Företag,Kort,KND-14038,Levererad,"Helt okej, gör vad den ska.",2025-01-24,3
+ORD-2025-00004,ORD-2025-00004-1,2025-02-11,2025-02-14,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Göteborg,Privat,Kort,KND-66690,Levererad,Mycket sämre kvalitet än förväntat.,2025-02-21,2
+ORD-2025-00005,ORD-2025-00005-1,2025-01-12,2025-01-15,SKU-SD001,Extern SSD 1TB,Lagring,10,1199.00,Göteborg,Företag,Faktura,KND-45408,Levererad,,,
+ORD-2025-00005,ORD-2025-00005-2,12 januari 2025,2025-01-15,SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Göteborg,Företag,,KND-45408,Levererad,,,
+ORD-2025-00006,ORD-2025-00006-1,2025-01-08,2025-01-10,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Privat,Kort,KND-25600,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-01-18,4
+ORD-2025-00007,ORD-2025-00007-1,2025-02-22,2025-02-26,SKU-HS002,Headset Budget,Ljud,10,499.00,Linköping,Företag,faktura,KND-85004,Levererad,Snabb leverans och produkten är fantastisk!,2025-03-09,5
+ORD-2025-00008,ORD-2025-00008-1,2025-01-06,2025-01-09,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Linkoping,Privat,Kort,KND-80704,Levererad,Stämmer inte överens med produktbeskrivningen.,2025-01-20,1
+ORD-2025-00008,ORD-2025-00008-2,2025-01-06,2025-01-09,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,,Privat,Kort,KND-80704,Levererad,Inte alls nöjd. Kommer inte handla här igen.,2025-01-16,2
+ORD-2025-00009,ORD-2025-00009-1,2025-01-23,2025-01-26,SKU-HS001,Headset Pro ANC,Ljud,2,1899.00,Sthlm.,Privat,Faktura,KND-26845,Levererad,,,
+ORD-2025-00009,ORD-2025-00009-2,2025-01-23,2025-01-18,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,Stockholm,Privat,Faktura,KND-26845,,,,
+ORD-2025-00010,ORD-2025-00010-1,2025-01-24,2025-01-26,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,,Privat,Kort,KND-31799,Levererad,,,
+ORD-2025-00011,ORD-2025-00011-1,7 januari 2025,2025-01-10,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Malmö,Privat,Kort,KND-25136,Levererad,,,
+ORD-2025-00012,ORD-2025-00012-1,2025-01-25,2025-01-27,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,3,1299:-,Göteborg,Företag,Faktura,KND-79227,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-28,4
+ORD-2025-00012,ORD-2025-00012-2,25/01/2025,2025-01-27,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Göteborg,Företag,Invoice,KND-79227,Levererad,,,
+ORD-2025-00013,ORD-2025-00013-1,2025-02-16,2025-02-18,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Privat,Visa,KND-92596,Mottagen,,,
+ORD-2025-00014,ORD-2025-00014-1,2025-01-31,2025-02-04,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Örebro,Privat,Swish,KND-34557,Levererad,,,
+ORD-2025-00015,ORD-2025-00015-1,2025-01-27,"January 29, 2025",SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Göteborg,Privat,Kort,KND-50234,Levererad,"Leveransen tog lite längre än utlovat, men produkten är ok.","February 10, 2025",3
+ORD-2025-00016,ORD-2025-00016-1,"February 17, 2025",2025-02-20,SKU-LP001,Laptop Pro 15,Datorer,1,SEK 14999,Linköping,Privat,Swish,KND-53652,,,,
+ORD-2025-00017,ORD-2025-00017-1,2025-02-03,2025-02-06,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,"599,00",stckhlm,Privat,Faktura,KND-15966,Levererad,,,
+ORD-2025-00018,ORD-2025-00018-1,2025-01-17,2025-01-19,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Göteborg,Privat,SWISH,KND-53967,Levererad,,,
+ORD-2025-00019,ORD-2025-00019-1,2025-02-23,2025-02-25,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Göteborg,Consumer,Kort,KND-49383,Levererad,,,
+ORD-2025-00020,ORD-2025-00020-1,2025-02-11,2025-02-13,SKU-HS002,Headset Budget,Ljud,2,499.00,Stocholm,Privat,swish,KND-21156,Levererad,,,
+ORD-2025-00020,ORD-2025-00020-2,2025-02-11,2025-02-13,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Stockholm,Privat,Swish,KND-21156,Levererad,"Den funkar. Inte mer, inte mindre.",2025-02-27,3
+ORD-2025-00021,ORD-2025-00021-1,2025-01-05,2025-01-08,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stockholm,Privat,Kort,KND-96044,Levererad,"Gör jobbet, men hade kunnat vara bättre.",2025-01-10,3
+ORD-2025-00022,ORD-2025-00022-1,2025-02-15,2025-02-18,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Swish,KND-19780,Levererad,,,
+ORD-2025-00022,ORD-2025-00022-2,2025-02-15,2025-02-18,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stockholm,Privat,Swish,KND-19780,Levererad,,,
+ORD-2025-00023,ORD-2025-00023-1,2025-01-09,2025-01-12,SKU-MS001,Trådlös Mus X1,Tillbehör,2,399.00,Gåteborg,Företag,Faktura,KND-27286,levererad,Bästa tangentbordet jag haft. Rekommenderar!,18.01.2025,4
+ORD-2025-00024,ORD-2025-00024-1,2025-02-18,2025-02-21,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Swish,KND-56466,levererad,,,
+ORD-2025-00025,ORD-2025-00025-1,2025-01-24,2025-01-26,SKU-MS001,Trådlös Mus X1,Tillbehör,2,399.00,Göteborg,Privat,Kort,KND-14571,Levererad,,,
+ORD-2025-00026,ORD-2025-00026-1,2025-02-13,2025-02-15,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Stockholm,Privat,Kort,KND-78903,Skickad,Överträffade mina förväntningar. 5 av 5!,2025-03-01,4
+ORD-2025-00027,ORD-2025-00027-1,2025-02-26,2025-03-01,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Kort,KND-58974,Under transport,,,
+ORD-2025-00028,ORD-2025-00028-1,2025-01-11,2025-01-14,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Privat,Kort,KND-21946,Levererad,,,
+ORD-2025-00029,ORD-2025-00029-1,2025-01-15,2025-01-17,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,stckhlm,Privat,Swish,KND-70051,Under transport,,,
+ORD-2025-00030,ORD-2025-00030-1,"February 03, 2025",2025-02-05,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Kort,KND-89621,Mottagen,Super! Kommer definitivt handla här igen.,2025-02-07,4
+ORD-2025-00030,ORD-2025-00030-2,2025-02-03,5 februari 2025,SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Stockholm,Privat,Kort,KND-89621,Levererad,,,
+ORD-2025-00031,ORD-2025-00031-1,2025-02-08,2025-02-11,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Göteborg,Företag,Faktura,KND-27653,Levererad,Helt underbar kvalitet för pengarna.,2025-02-20,4
+ORD-2025-00032,ORD-2025-00032-1,2025-02-19,2025-02-21,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Consumer,Swish,KND-61950,,,,
+ORD-2025-00032,ORD-2025-00032-2,2025-02-19,2025-02-21,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stockholm,Consumer,Swish,KND-61950,Levererad,,,
+ORD-2025-00033,ORD-2025-00033-1,2025-02-25,2025-02-28,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Consumer,Faktura,KND-89151,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-03-01,5
+ORD-2025-00034,ORD-2025-00034-1,2025-02-22,2025-02-25,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Faktura,KND-78207,Levererad,Snabb leverans och produkten är fantastisk!,2025-03-08,4
+ORD-2025-00035,ORD-2025-00035-1,2025-02-09,2025-02-12,SKU-SD001,Extern SSD 1TB,Lagring,3,1199.00,MLM,Företag,Swish,KND-75241,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-02-26,4
+ORD-2025-00035,ORD-2025-00035-2,2025-02-09,2025-02-12,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Malmö,Företag,Swish,KND-75241,Levererad,"Leverans på två dagar, imponerad!",2025-02-14,4
+ORD-2025-00035,ORD-2025-00035-3,2025-02-09,2025-02-12,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Malmö,Corp,Swish,KND-75241,Levererad,,,
+ORD-2025-00035,ORD-2025-00035-4,2025-02-09,2025-02-12,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Malmö,Företag,Swish,KND-75241,Levererad,,,
+ORD-2025-00035,ORD-2025-00035-5,2025-02-09,12 februari 2025,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Malmö,Business,Mobilbetalning,KND-75241,Levererad,,,
+ORD-2025-00036,ORD-2025-00036-1,27/01/2025,2025-01-29,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Göteborg,Privat,Swish,KND-26380,Levererad,,,
+ORD-2025-00037,ORD-2025-00037-1,2025-02-21,2025-02-24,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,,Consumer,Faktura,KND-74132,Levererad,Riktigt nöjd! Använder den dagligen.,2025-03-06,5
+ORD-2025-00037,ORD-2025-00037-2,21/02/2025,2025-02-24,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699 kr,Malmö,Privat,Faktura,KND-74132,Levererad,Helt underbar kvalitet för pengarna.,2025-03-08,4
+ORD-2025-00038,ORD-2025-00038-1,2025-01-31,2025-02-04,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Uppsala,Privat,KORT,KND-74041,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-02-13,5
+ORD-2025-00039,ORD-2025-00039-1,2025-01-05,2025-01-07,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Göteborg,Privat,Swish,KND-31441,Levererad,Toppen! Exakt vad jag behövde.,2025-01-16,5
+ORD-2025-00040,ORD-2025-00040-1,2025-02-21,2025-02-23,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,G-borg,Privat,Swish,KND-92123,Levererad,,,
+ORD-2025-00040,ORD-2025-00040-2,2025-02-21,2025-02-23,SKU-LP002,Laptop Budget 14,Datorer,2,7999.00,Göteborg,Kund,Swish,KND-92123,Levererad,,,
+ORD-2025-00040,ORD-2025-00040-3,2025-02-21,2025-02-23,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,G-borg,Privat,Swish,KND-92123,Levererad,"Leverans på två dagar, imponerad!",2025-02-26,4
+ORD-2025-00041,ORD-2025-00041-1,2025-02-05,2025-02-08,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599.00,Stockholm,Privat,Kort,KND-36343,Levererad,,,
+ORD-2025-00042,ORD-2025-00042-1,2025-01-01,2025-01-04,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Kort,KND-71185,Levererad,,,
+ORD-2025-00042,ORD-2025-00042-2,2025-01-01,2025-01-04,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Kort,KND-71185,LEVERERAD,"Förväntade mig mer för priset, men den duger.",2025-01-10,3
+ORD-2025-00043,ORD-2025-00043-1,2025-02-25,2025-02-22,SKU-LP003,Laptop Gaming X,Datorer,2,18999.00,Stockholm,Företag,Invoice,KND-38152,levererad,Super! Kommer definitivt handla här igen.,2025-03-13,4
+ORD-2025-00043,ORD-2025-00043-2,2025-02-25,2025-02-28,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,3,5999.00,Stockholm,Företag,Faktura,KND-38152,Levererad,,,
+ORD-2025-00043,ORD-2025-00043-3,2025-02-25,2025-02-28,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stockholm,Företag,Faktura,KND-38152,Levererad,Super! Kommer definitivt handla här igen.,2025-03-13,4
+ORD-2025-00044,ORD-2025-00044-1,2025-02-02,2025-02-05,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,stckhlm,Privat,Swish,KND-80707,Levererad,,,
+ORD-2025-00045,ORD-2025-00045-1,2025-01-29,2025-02-05,SKU-LP001,Laptop Pro 15,Datorer,2,SEK 14999,Norrland,Företag,Faktura,KND-73258,Levererad,,,
+ORD-2025-00045,ORD-2025-00045-2,2025-01-29,2025-02-05,SKU-SD001,Extern SSD 1TB,Lagring,5,1199.00,Norrland,Företag,Faktura,KND-73258,Levererad,Mycket sämre kvalitet än förväntat.,2025-02-10,1
+ORD-2025-00045,ORD-2025-00045-3,2025-01-29,2025-02-05,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,10,1299.00,NORRLAND,Företag,Faktura,KND-73258,Levererad,,,
+ORD-2025-00045,ORD-2025-00045-4,2025-01-29,2025-02-05,SKU-LP003,Laptop Gaming X,Datorer,3,18999.00,Norrland,Företag,Faktura,KND-73258,Levererad,,,
+ORD-2025-00045,ORD-2025-00045-5,2025-01-29,2025-01-28,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699:-,Norrland,Företag,Faktura,KND-73258,Levererad,,,
+ORD-2025-00046,ORD-2025-00046-1,2025-01-25,2025-01-28,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Kort,KND-65731,Levererad,Mycket sämre kvalitet än förväntat.,5 februari 2025,2
+ORD-2025-00046,ORD-2025-00046-2,2025-01-25,2025-01-28,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Kort,KND-65731,Levererad,,,
+ORD-2025-00047,ORD-2025-00047-1,2025-02-14,2025-02-17,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,,Privat,Kort,KND-57125,Levererad,Super! Kommer definitivt handla här igen.,2025-03-03,5
+ORD-2025-00047,ORD-2025-00047-2,2025-02-14,2025-02-17,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,2,SEK 699,MLM,Privat,kort,KND-57125,Levererad,,,
+ORD-2025-00048,ORD-2025-00048-1,"February 03, 2025",2025-02-05,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Privat,Swish,KND-16608,Levererad,Produkten gick sönder efter en månad.,2025-02-09,2
+ORD-2025-00048,ORD-2025-00048-2,2025-02-03,2025-02-05,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Stockholm,Privat,Swish,KND-16608,Levererad,,,
+ORD-2025-00049,ORD-2025-00049-1,2025-01-11,2025-01-13,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Swish,KND-19162,Levererad,,,
+ORD-2025-00049,ORD-2025-00049-2,2025-01-11,2025-01-13,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Sthlm.,Privat,Swish,KND-19162,Levererad,,,
+ORD-2025-00050,ORD-2025-00050-1,2025-02-07,2025-02-09,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockolm,Privat,,KND-16916,under transport,,,
+ORD-2025-00050,ORD-2025-00050-2,2025-02-07,2025-02-09,SKU-HS002,Headset Budget,Ljud,1,499.00,Stockholm,Privat,,KND-16916,Under transport,,,
+ORD-2025-00051,ORD-2025-00051-1,2025-01-07,2025-01-09,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,2,699.00,Stockholm,Företag,Swish,KND-26911,Levererad,,,
+ORD-2025-00051,ORD-2025-00051-2,2025-01-07,2025-01-09,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Företag,Swish,KND-26911,Mottagen,,,
+ORD-2025-00052,ORD-2025-00052-1,2025-02-21,2025-02-27,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Norrland,Privat,Swish,KND-85130,Levererad,Toppen! Exakt vad jag behövde.,2025-03-04,5
+ORD-2025-00052,ORD-2025-00052-2,2025-02-21,2025-02-27,SKU-LP001,Laptop Pro 15,Datorer,2,14999.00,Norr,Privat,swish,KND-85130,Mottagen,,,
+ORD-2025-00053,ORD-2025-00053-1,2025-01-28,2025-01-26,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Privat,Swish,KND-27000,Levererad,Toppen! Exakt vad jag behövde.,2025-02-01,5
+ORD-2025-00054,ORD-2025-00054-1,21/02/2025,2025-02-24,SKU-MS001,Trådlös Mus X1,Tillbehör,2,399.00,Stockholm,Privat,Faktura,KND-75168,Levererad,,,
+ORD-2025-00055,ORD-2025-00055-1,2025-02-05,2025-02-08,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Göteborg,Privat,kort,KND-13340,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-02-17,5
+ORD-2025-00056,ORD-2025-00056-1,2025-02-25,2025-02-28,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,,Privat,Swish,KND-89462,Skickad,Super! Kommer definitivt handla här igen.,2025-03-06,4
+ORD-2025-00057,ORD-2025-00057-1,2025-01-06,2025-01-08,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Göteborg,Privat,Kreditkort,KND-58685,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-01-20,4
+ORD-2025-00058,ORD-2025-00058-1,2025-01-01,2025-01-04,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,stckhlm,Privat,Kort,KND-57201,LEVERERAD,,,
+ORD-2025-00059,ORD-2025-00059-1,10 januari 2025,2025-01-12,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Malmö,Privat,Kort,KND-93287,Mottagen,,,
+ORD-2025-00060,ORD-2025-00060-1,2025-02-18,2025-02-25,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Norrland,Privat,Swish,KND-24343,Levererad,,,
+ORD-2025-00061,ORD-2025-00061-1,2025-01-29,01/02/2025,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Göteborg,Privat,Swish,KND-69902,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-02-08,5
+ORD-2025-00061,ORD-2025-00061-2,2025-01-29,2025-02-01,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Goteborg,Privat,Swish,KND-69902,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-02-06,5
+ORD-2025-00062,ORD-2025-00062-1,2025-02-19,2025-02-21,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,SWISH,KND-15929,Retur,Kan varmt rekommendera denna produkt.,2025-02-26,4
+ORD-2025-00062,ORD-2025-00062-2,2025-02-19,2025-02-21,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,,Privat,Swish,KND-15929,Retur,Överträffade mina förväntningar. 5 av 5!,2025-03-02,5
+ORD-2025-00063,ORD-2025-00063-1,2025-02-21,2025-02-24,SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Stockholm,Kund,Kort,KND-31921,Levererad,"Fungerar utmärkt, inga problem alls.",2025-02-28,4
+ORD-2025-00064,ORD-2025-00064-1,2025-02-11,2025-02-13,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,2,4999.00,Malmö,Corp,Faktura,KND-47137,Levererad,,,
+ORD-2025-00065,ORD-2025-00065-1,2025-02-21,2025-02-24,SKU-HS002,Headset Budget,Ljud,2,499.00,Malmö,Företag,Faktura,KND-36449,Levererad,,,
+ORD-2025-00065,ORD-2025-00065-2,2025-02-21,2025-02-24,SKU-HS002,Headset Budget,Ljud,3,499.00,Malmö,Företag,Faktura,KND-36449,Levererad,Väntade i över en vecka på leveransen. Oacceptabelt.,2025-03-10,1
+ORD-2025-00065,ORD-2025-00065-3,2025-02-21,2025-02-24,SKU-SP001,Bluetooth-högtalare,Ljud,2,899.00,Malmö,Företag,,KND-36449,Levererad,Dålig kundservice när jag försökte reklamera.,2025-03-05,1
+ORD-2025-00065,ORD-2025-00065-4,2025-02-21,2025-02-24,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,5,699.00,Malmö,Företag,FAKTURA,KND-36449,Levererad,,,
+ORD-2025-00066,ORD-2025-00066-1,2025-02-06,2025-02-09,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,stckhlm,Person,Swish,KND-48682,Levererad,Helt underbar kvalitet för pengarna.,2025-02-14,5
+ORD-2025-00066,ORD-2025-00066-2,2025-02-06,2025-02-09,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stockholm,Privat,Swish,KND-48682,Levererad,,,
+ORD-2025-00067,ORD-2025-00067-1,2025-02-01,2025-02-04,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Företag,Faktura,KND-88653,Levererad,,,
+ORD-2025-00067,ORD-2025-00067-2,2025-02-01,2025-02-04,SKU-LP003,Laptop Gaming X,Datorer,1,"18 999,00",Stockholm,Företag,faktura,KND-88653,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-02-13,4
+ORD-2025-00067,ORD-2025-00067-3,2025-02-01,2025-02-04,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Stockholm,Företag,Faktura,KND-88653,Levererad,Skärmen hade repor när den kom. Förpackningen var skadad.,2025-02-18,1
+ORD-2025-00067,ORD-2025-00067-4,2025-02-01,2025-02-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Företag,Faktura,KND-88653,Levererad,Kan varmt rekommendera denna produkt.,2025-02-13,4
+ORD-2025-00067,ORD-2025-00067-5,01/02/2025,2025-02-04,SKU-HS001,Headset Pro ANC,Ljud,3,1899.00,,Företag,Faktura,KND-88653,Levererad,,,
+ORD-2025-00068,ORD-2025-00068-1,2025-01-08,2025-01-10,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Mobilbetalning,KND-73770,Levererad,,,
+ORD-2025-00069,ORD-2025-00069-1,2025-02-04,2025-02-08,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Örebro,Privat,Kort,KND-59624,Levererad,Varken bra eller dåligt. Fungerar.,2025-02-13,3
+ORD-2025-00070,ORD-2025-00070-1,2025-01-31,2025-02-03,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599.00,Örebro,Privat,Faktura,KND-44039,,,,
+ORD-2025-00071,ORD-2025-00071-1,2025-01-19,2025-01-22,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Malmö,Person,kort,KND-93360,Levererad,,,
+ORD-2025-00072,ORD-2025-00072-1,2025-02-28,2025-03-02,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Swish,KND-78587,Levererad,,,
+ORD-2025-00073,ORD-2025-00073-1,2025-01-09,2025-01-11,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Sthlm.,Privat,Swish,KND-59751,Levererad,,,
+ORD-2025-00074,ORD-2025-00074-1,2025-01-25,2025-01-24,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,MLM,Privat,Kort,KND-33382,Retur,,,
+ORD-2025-00074,ORD-2025-00074-2,2025-01-25,2025-01-28,SKU-WC001,Webbkamera HD,Tillbehör,1,SEK 799,Malmö,Privat,Kort,KND-33382,Retur,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-29,5
+ORD-2025-00075,ORD-2025-00075-1,2025-02-26,2025-03-01,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,örebro,Privat,Kort,KND-22661,Levererad,Stämmer inte överens med produktbeskrivningen.,2025-03-10,2
+ORD-2025-00075,ORD-2025-00075-2,2025-02-26,2025-03-01,SKU-SD001,Extern SSD 1TB,Lagring,1st,1199.00,Örebro,Privat,Kreditkort,KND-22661,Levererad,,,
+ORD-2025-00076,ORD-2025-00076-1,2025-01-03,2025-01-07,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,uppsala,Privat,Faktura,KND-33516,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-01-17,4
+ORD-2025-00077,ORD-2025-00077-1,2025-01-01,2025-01-03,SKU-HB001,USB-C Hub 7-port,Tillbehör,2,549.00,Stockholm,Privat,Kort,KND-44701,Retur,Mycket nöjd med köpet. Snabb leverans också!,2025-01-01,4
+ORD-2025-00078,ORD-2025-00078-1,2025-01-14,2025-01-17,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,,Privat,Kort,KND-71381,Levererad,,,
+ORD-2025-00079,ORD-2025-00079-1,2025-01-02,2025-01-04,SKU-MS001,Trådlös Mus X1,Tillbehör,2,399.00,Stockholm,Privat,Kort,KND-84890,Levererad,,,
+ORD-2025-00079,ORD-2025-00079-2,"January 02, 2025",2025-01-04,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,Stockholm,Privat,Kort,KND-84890,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-16,5
+ORD-2025-00080,ORD-2025-00080-1,2025-02-19,2025-02-23,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Uppsala,Privat,Swish,KND-41429,Levererad,Skärmen hade repor när den kom. Förpackningen var skadad.,2025-03-05,1
+ORD-2025-00081,ORD-2025-00081-1,2025-02-01,2025-02-05,SKU-LP002,Laptop Budget 14,Datorer,1,"7 999,00",Linköping,Privat,Faktura,KND-49555,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-02-14,5
+ORD-2025-00081,ORD-2025-00081-2,2025-02-01,2025-02-05,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Linköping,Privat,Faktura,KND-49555,Levererad,"Helt okej, gör vad den ska.",2025-02-11,3
+ORD-2025-00082,ORD-2025-00082-1,2025-02-18,2025-02-20,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Göteborg,Consumer,Kort,KND-53694,Levererad,,,
+ORD-2025-00082,ORD-2025-00082-2,2025-02-18,2025-02-20,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Göteborg,Privat,Visa,KND-53694,Levererad,Toppen! Exakt vad jag behövde.,2025-02-22,4
+ORD-2025-00083,ORD-2025-00083-1,2025-01-21,2025-01-23,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Goteborg,Privat,Swish,KND-53732,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-02-04,4
+ORD-2025-00084,ORD-2025-00084-1,2025-02-02,2025-02-05,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,2,699.00,Vasteras,Företag,kort,KND-24275,Levererad,,,
+ORD-2025-00085,ORD-2025-00085-1,2025-01-14,2025-01-17,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,2,5999.00,Göteborg,Consumer,FAKTURA,KND-94045,Levererad,Helt underbar kvalitet för pengarna.,2025-01-20,4
+ORD-2025-00085,ORD-2025-00085-2,2025-01-14,2025-01-17,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Göteborg,Privat,Faktura,KND-94045,Levererad,,,
+ORD-2025-00076,ORD-2025-00076-1,2025-01-03,2025-01-07,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,uppsala,Privat,Faktura,KND-33516,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-01-17,4
+ORD-2025-00085,ORD-2025-00085-3,2025-01-14,2025-01-17,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Göteborg,Privat,faktura,KND-94045,levererad,Varken bra eller dåligt. Fungerar.,2025-01-30,3
+ORD-2025-00086,ORD-2025-00086-1,2025-02-20,2025/02/23,SKU-WC001,Webbkamera HD,Tillbehör,1st,799.00,Stockolm,Privat,Swish,KND-85001,Levererad,Kan varmt rekommendera denna produkt.,2025-03-03,4
+ORD-2025-00086,ORD-2025-00086-2,2025-02-20,23/02/2025,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockolm,Privat,,KND-85001,Mottagen,,,
+ORD-2025-00087,ORD-2025-00087-1,2025-02-10,2025-02-12,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Malmö,Privat,Kort,KND-89140,Levererad,"Fungerar utmärkt, inga problem alls.",2025-02-26,4
+ORD-2025-00087,ORD-2025-00087-2,2025-02-10,2025-02-12,SKU-LP001,Laptop Pro 15,Datorer,2,14999.00,Malmoe,Privat,Kort,KND-89140,Levererad,,,
+ORD-2025-00088,ORD-2025-00088-1,2025-01-16,2025-01-18,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Kort,KND-65393,,,,
+ORD-2025-00088,ORD-2025-00088-2,2025-01-16,2025-01-18,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Stockholm,Privat,Kort,KND-65393,Levererad,Helt underbar kvalitet för pengarna.,2025-01-29,5
+ORD-2025-00089,ORD-2025-00089-1,2025-01-05,2025-01-08,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Gåteborg,Privat,Swish,KND-94769,Mottagen,,,
+ORD-2025-00090,ORD-2025-00090-1,2025-01-03,2025-01-06,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,västerås,Privat,Swish,KND-45333,Levererad,,,
+ORD-2025-00091,ORD-2025-00091-1,2025-02-01,2025-01-30,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Swish,KND-36560,Retur,,,
+ORD-2025-00091,ORD-2025-00091-2,2025-02-01,2025-02-04,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Sthlm.,Privat,Swish,KND-36560,RETUR,Okej produkt för pengarna.,2025-02-08,3
+ORD-2025-00092,ORD-2025-00092-1,2025-01-05,2025-01-07,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Göteborg,Privat,faktura,KND-70801,Levererad,,,
+ORD-2025-00093,ORD-2025-00093-1,2025-01-24,2025-01-27,SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Göteborg,Privat,,KND-74669,Levererad,,,
+ORD-2025-00094,ORD-2025-00094-1,2025-02-18,2025-02-21,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Örebro,Privat,Kort,KND-38589,Retur,Toppen! Exakt vad jag behövde.,2025-02-27,4
+ORD-2025-00095,ORD-2025-00095-1,2025-02-22,2025-02-24,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Privat,Kort,KND-18857,Levererad,,,
+ORD-2025-00096,ORD-2025-00096-1,2025-02-17,2025-02-21,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,UPPSALA,Privat,Kort,KND-79998,Retur,Snabb leverans och produkten är fantastisk!,2025-02-22,4
+ORD-2025-00097,ORD-2025-00097-1,30 januari 2025,"February 01, 2025",SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Visa,KND-87213,Levererad,,,
+ORD-2025-00098,ORD-2025-00098-1,2025-01-10,2025-01-13,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Malmö,Privat,Kort,KND-55219,Levererad,"Leveransen tog lite längre än utlovat, men produkten är ok.",2025-01-16,3
+ORD-2025-00175,ORD-2025-00175-5,2025-02-02,2025-02-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Göteborg,Företag,Faktura,KND-97318,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-02-06,5
+ORD-2025-00098,ORD-2025-00098-2,2025-01-10,2025-01-13,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,Kreditkort,KND-55219,Skickad,,,
+ORD-2025-00099,ORD-2025-00099-1,2025-01-05,2025-01-09,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Linköping,Privat,,KND-25068,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-08,4
+ORD-2025-00100,ORD-2025-00100-1,2025-02-16,2025-02-18,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Göteborg,Kund,Kort,KND-56947,Levererad,,,
+ORD-2025-00101,ORD-2025-00101-1,2025-01-06,2025-01-10,SKU-SD002,Extern SSD 500GB,Lagring,5,699.00,UPPSALA,Företag,Kort,KND-58529,Levererad,Snabb leverans och produkten är fantastisk!,2025-01-21,5
+ORD-2025-00102,ORD-2025-00102-1,2025-01-03,2025-01-05,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Privat,Kort,KND-60538,Retur,Super! Kommer definitivt handla här igen.,2025-01-06,4
+ORD-2025-00103,ORD-2025-00103-1,2025-02-21,2025-02-23,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,,Företag,,KND-24002,LEVERERAD,Snabb leverans och produkten är fantastisk!,2025-02-28,5
+ORD-2025-00103,ORD-2025-00103-2,2025-02-21,2025-02-23,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,2,2499.00,Göteborg,Företag,Invoice,KND-24002,Levererad,Riktigt nöjd! Använder den dagligen.,2025-03-03,4
+ORD-2025-00103,ORD-2025-00103-3,2025-02-21,2025-02-23,SKU-HS002,Headset Budget,Ljud,1,499.00,Göteborg,Företag,,KND-24002,Levererad,,,
+ORD-2025-00104,ORD-2025-00104-1,2025-01-16,20 januari 2025,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Västerås,Privat,Faktura,KND-61623,Levererad,Super! Kommer definitivt handla här igen.,2025-01-25,5
+ORD-2025-00105,ORD-2025-00105-1,2025-02-10,2025-02-13,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Stockholm,Privat,swish,KND-58334,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,24/02/2025,5
+ORD-2025-00106,ORD-2025-00106-1,2025-01-13,2025-01-18,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Norrland,Consumer,Kreditkort,KND-99634,LEVERERAD,"Leverans på två dagar, imponerad!",2025-01-24,5
+ORD-2025-00107,ORD-2025-00107-1,2025-01-01,2025-01-04,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Göteborg,Privat,Swish,KND-57479,Returnerad,,,
+ORD-2025-00108,ORD-2025-00108-1,2025-01-08,11.01.2025,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Uppsala,Privat,Swish,KND-36678,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-01-15,4
+ORD-2025-00108,ORD-2025-00108-2,2025-01-08,2025-01-11,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Uppsala,Privat,Swish,KND-36678,Levererad,,,
+ORD-2025-00108,ORD-2025-00108-3,2025-01-08,11/01/2025,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Uppsala,Privat,Swish,KND-36678,Mottagen,Produkten gick sönder efter en månad.,2025-01-21,1
+ORD-2025-00109,ORD-2025-00109-1,2025-02-05,"February 08, 2025",SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Stocholm,Privat,Kort,KND-92799,Levererad,,,
+ORD-2025-00110,ORD-2025-00110-1,2025-01-03,2025-01-05,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Goteborg,Privat,Faktura,KND-17524,Levererad,,,
+ORD-2025-00111,ORD-2025-00111-1,2025-02-22,2025-02-25,SKU-SD002,Extern SSD 500GB,Lagring,3,699.00,Stockholm,Företag,Faktura,KND-23818,Retur,Trasig förpackning och skadad produkt.,2025-03-05,2
+ORD-2025-00111,ORD-2025-00111-2,2025-02-22,2025-02-19,SKU-SD001,Extern SSD 1TB,Lagring,1,1199 kr,Stockholm,Företag,Faktura,KND-23818,Retur,,,
+ORD-2025-00002,ORD-2025-00002-3,2025/02/25,2025-02-27,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,"2 499,00",Stocholm,Företag,Faktura,KND-98707,Levererad,,,
+ORD-2025-00212,ORD-2025-00212-2,2025-01-12,2025-01-14,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Faktura,KND-10387,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-26,4
+ORD-2025-00112,ORD-2025-00112-1,2025-02-27,2025-03-01,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Consumer,Kort,KND-16497,Levererad,Riktigt nöjd! Använder den dagligen.,2025-03-07,5
+ORD-2025-00113,ORD-2025-00113-1,2025-02-14,2025-02-16,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Malmö,Privat,Swish,KND-42712,Levererad,Riktigt nöjd! Använder den dagligen.,2025-02-19,4
+ORD-2025-00113,ORD-2025-00113-2,2025-02-14,2025-02-16,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Malmö,Person,Swish,KND-42712,Levererad,,,
+ORD-2025-00114,ORD-2025-00114-1,2025-02-20,2025-02-24,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,ÖREBRO,Privat,KORT,KND-47600,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-03-06,4
+ORD-2025-00115,ORD-2025-00115-1,2025-01-11,2025-01-14,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,stckhlm,Kund,Swish,KND-51817,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-01-21,4
+ORD-2025-00116,ORD-2025-00116-1,21/02/2025,2025-02-23,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Privat,Swish,KND-87450,Levererad,,,
+ORD-2025-00117,ORD-2025-00117-1,2025-01-24,2025-01-26,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,2,2499.00,Stockholm,Företag,Faktura,KND-66395,Levererad,Skärmen flimrar ibland. Inte acceptabelt för priset.,2025-02-05,1
+ORD-2025-00117,ORD-2025-00117-2,2025-01-24,2025-01-26,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,2,5999.00,Stockholm,Företag,Faktura,KND-66395,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-27,5
+ORD-2025-00118,ORD-2025-00118-1,2025-01-08,2025-01-10,SKU-SP001,Bluetooth-högtalare,Ljud,2,899.00,Göteborg,Företag,Faktura,KND-78061,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-18,4
+ORD-2025-00118,ORD-2025-00118-2,2025-01-08,2025-01-10,SKU-LP003,Laptop Gaming X,Datorer,10,18999.00,Göteborg,Företag,Faktura,KND-78061,Levererad,,,
+ORD-2025-00118,ORD-2025-00118-3,2025-01-08,2025-01-10,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,10 st,2499.00,Göteborg,Företag,Faktura,KND-78061,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-01-21,5
+ORD-2025-00119,ORD-2025-00119-1,2025-01-17,19/01/2025,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Kort,KND-62520,Levererad,,,
+ORD-2025-00119,ORD-2025-00119-2,2025-01-17,2025-01-19,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Stocholm,Privat,Kort,KND-62520,levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-01-25,5
+ORD-2025-00120,ORD-2025-00120-1,2025-02-17,2025-02-21,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Örebro,Privat,Faktura,KND-47989,levererad,,,
+ORD-2025-00121,ORD-2025-00121-1,2025-01-04,2025-01-07,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Swish,KND-21764,Retur,,,
+ORD-2025-00122,ORD-2025-00122-1,2025-02-01,2025-02-03,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Göteborg,Privat,Faktura,KND-29647,Levererad,,,
+ORD-2025-00123,ORD-2025-00123-1,2025-01-01,2025-01-04,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Malmö,Företag,faktura,KND-80062,Levererad,"Gör jobbet, men hade kunnat vara bättre.",2025-01-13,3
+ORD-2025-00123,ORD-2025-00123-2,2025-01-01,2025-01-04,SKU-LP002,Laptop Budget 14,Datorer,5,7999.00,Malmö,Business,Faktura,KND-80062,Levererad,,,
+ORD-2025-00123,ORD-2025-00123-3,2025-01-01,2025-01-04,SKU-SD002,Extern SSD 500GB,Lagring,3,699.00,Malmö,Företag,Faktura,KND-80062,Levererad,,,
+ORD-2025-00123,ORD-2025-00123-4,2025-01-01,2025-01-04,SKU-MS001,Trådlös Mus X1,Tillbehör,5,399.00,Malmö,Företag,Faktura,KND-80062,Levererad,Super! Kommer definitivt handla här igen.,11/01/2025,4
+ORD-2025-00123,ORD-2025-00123-5,2025-01-01,2025-01-04,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Malmö,Företag,Faktura,KND-80062,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-01-08,5
+ORD-2025-00124,ORD-2025-00124-1,2025-01-08,2025-01-11,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,örebro,Person,KORT,KND-16469,Retur,Mycket sämre kvalitet än förväntat.,2025-01-16,2
+ORD-2025-00125,ORD-2025-00125-1,2025-01-10,2025-01-13,SKU-LP001,Laptop Pro 15,Datorer,2,14999.00,uppsala,Privat,Kort,KND-14615,Levererad,Snabb leverans och produkten är fantastisk!,2025-01-27,5
+ORD-2025-00126,ORD-2025-00126-1,2025-01-23,2025-01-26,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Stockholm,Person,Swish,KND-75770,Mottagen,Stämmer inte överens med produktbeskrivningen.,2025-01-28,1
+ORD-2025-00127,ORD-2025-00127-1,2025-02-11,2025-02-13,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Kort,KND-17089,Levererad,"Fungerar utmärkt, inga problem alls.",2025-02-21,5
+ORD-2025-00128,ORD-2025-00128-1,2025-01-07,2025-01-11,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Linköping,Privat,Kort,KND-87558,Levererad,,,
+ORD-2025-00129,ORD-2025-00129-1,2025-01-19,2025-01-23,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Uppsala,Privat,Kort,KND-44003,Skickad,,,
+ORD-2025-00130,ORD-2025-00130-1,2025-02-13,2025-02-11,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Privat,Faktura,KND-54905,Levererad,Kan varmt rekommendera denna produkt.,"February 27, 2025",4
+ORD-2025-00131,ORD-2025-00131-1,2025-01-17,2025-01-20,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Kort,KND-62274,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-26,5
+ORD-2025-00132,ORD-2025-00132-1,2025-01-02,2025-01-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Privat,Swish,KND-85110,Under transport,,,
+ORD-2025-00133,ORD-2025-00133-1,2025-01-18,2025-01-20,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,stckhlm,Företag,Faktura,KND-77516,Levererad,Medelmåttig upplevelse.,2025-02-03,3
+ORD-2025-00134,ORD-2025-00134-1,2025-02-15,2025-02-17,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Malmö,Kund,Mastercard,KND-83049,Levererad,"Förväntade mig mer för priset, men den duger.",2025-02-21,3
+ORD-2025-00135,ORD-2025-00135-1,2025-01-13,2025-01-16,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,2,4999.00,Stockholm,Kund,Kort,KND-21495,Levererad,Mycket sämre kvalitet än förväntat.,2025-01-30,1
+ORD-2025-00136,ORD-2025-00136-1,2025-02-13,2025-02-20,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,norrland,Privat,Faktura,KND-34351,Levererad,Helt underbar kvalitet för pengarna.,2025-02-22,5
+ORD-2025-00137,ORD-2025-00137-1,2025-01-29,2025-01-31,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,kort,KND-48595,Levererad,,,
+ORD-2025-00138,ORD-2025-00138-1,2025-01-27,2025-01-31,SKU-SD002,Extern SSD 500GB,Lagring,3,699.00,VÄSTERÅS,Företag,Faktura,KND-50244,Levererad,,,
+ORD-2025-00138,ORD-2025-00138-2,2025-01-27,2025-01-25,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,2,4999.00,Västerås,Företag,Faktura,KND-50244,Levererad,,,
+ORD-2025-00047,ORD-2025-00047-1,2025-02-14,2025-02-17,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,,Privat,Kort,KND-57125,Levererad,Super! Kommer definitivt handla här igen.,2025-03-03,5
+ORD-2025-00139,ORD-2025-00139-1,2025-02-01,2025-02-03,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Företag,Faktura,KND-76917,Levererad,Genomsnittlig kvalitet. Inget speciellt.,2025-02-16,3
+ORD-2025-00139,ORD-2025-00139-2,2025-02-01,2025-02-03,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,3,4999.00,Stockholm,Företag,Faktura,KND-76917,levererad,,,
+ORD-2025-00140,ORD-2025-00140-1,2025-02-26,2025-03-01,SKU-HS001,Headset Pro ANC,Ljud,5,1899.00,Göteborg,Företag,Faktura,KND-78099,Skickad,Stämmer inte överens med produktbeskrivningen.,2025-03-06,1
+ORD-2025-00140,ORD-2025-00140-2,2025-02-26,2025-03-01,SKU-SD001,Extern SSD 1TB,Lagring,10,1199.00,Göteborg,Företag,faktura,KND-78099,Levererad,"Leverans på två dagar, imponerad!",2025-03-15,5
+ORD-2025-00140,ORD-2025-00140-3,2025-02-26,2025-03-01,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599.00,Göteborg,Företag,Faktura,KND-78099,Skickad,,,
+ORD-2025-00141,ORD-2025-00141-1,13/02/2025,2025-02-15,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,5,4999.00,Göteborg,Företag,Mobilbetalning,KND-92820,Levererad,,,
+ORD-2025-00141,ORD-2025-00141-2,2025-02-13,2025-02-15,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,gbg,Företag,Swish,KND-92820,Levererad,Fungerar inte som det ska. Måste returnera.,2025-02-19,2
+ORD-2025-00141,ORD-2025-00141-3,2025-02-13,2025-02-15,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,"549,00",Göteborg,Företag,Swish,KND-92820,Levererad,,,
+ORD-2025-00142,ORD-2025-00142-1,2025-01-08,2025-01-10,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Stockholm,Privat,Swish,KND-55125,Retur,Riktigt nöjd! Använder den dagligen.,2025-01-17,5
+ORD-2025-00143,ORD-2025-00143-1,2025-02-13,2025-02-16,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Faktura,KND-44336,Retur,Toppen! Exakt vad jag behövde.,2025-03-01,5
+ORD-2025-00143,ORD-2025-00143-2,2025-02-13,2025-02-16,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Privat,Faktura,KND-44336,Retur,,,
+ORD-2025-00144,ORD-2025-00144-1,2025-01-25,2025-01-27,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Consumer,Kort,KND-78201,Levererad,,,
+ORD-2025-00145,ORD-2025-00145-1,2025-01-08,2025-01-10,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Sthlm.,Consumer,FAKTURA,KND-33880,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-14,4
+ORD-2025-00145,ORD-2025-00145-2,2025-01-08,2025-01-10,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Consumer,Faktura,KND-33880,Levererad,,,
+ORD-2025-00146,ORD-2025-00146-1,2025-01-31,2025-02-02,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Swish,KND-68215,Levererad,,,
+ORD-2025-00147,ORD-2025-00147-1,2025-01-19,2025-01-21,SKU-LP002,Laptop Budget 14,Datorer,en,7999.00,Stockholm,Consumer,Mobilbetalning,KND-53497,Levererad,Snabb leverans och produkten är fantastisk!,2025-02-01,5
+ORD-2025-00148,ORD-2025-00148-1,03/02/2025,2025-02-06,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Västerås,Privat,Swish,KND-74267,Levererad,Mycket nöjd med köpet. Snabb leverans också!,2025-02-09,5
+ORD-2025-00149,ORD-2025-00149-1,2025-01-21,2025-01-23,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Swish,KND-21817,Levererad,,,
+ORD-2025-00150,ORD-2025-00150-1,2025-01-02,2025-01-05,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,,Privat,Kort,KND-49344,Levererad,,,
+ORD-2025-00150,ORD-2025-00150-2,2025-01-02,2025-01-05,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Consumer,Kort,KND-49344,,,,
+ORD-2025-00151,ORD-2025-00151-1,2025-01-29,2025-02-01,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockholm,Privat,Invoice,KND-64481,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-02-07,5
+ORD-2025-00151,ORD-2025-00151-2,2025-01-29,2025-02-01,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Faktura,KND-64481,Levererad,,,
+ORD-2025-00152,ORD-2025-00152-1,2025-02-22,2025-02-24,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,gbg,Privat,Faktura,KND-72728,Levererad,,,
+ORD-2025-00153,ORD-2025-00153-1,2025-01-09,2025-01-12,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Kort,KND-92467,,,,
+ORD-2025-00154,ORD-2025-00154-1,2025-02-28,2025-03-02,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Swish,KND-37083,Levererad,Kan varmt rekommendera denna produkt.,2025-03-14,5
+ORD-2025-00155,ORD-2025-00155-1,2025-01-23,2025-01-30,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Norr,Privat,Swish,KND-54619,Levererad,Inte alls nöjd. Kommer inte handla här igen.,2025-02-08,1
+ORD-2025-00155,ORD-2025-00155-2,2025-01-23,2025-01-30,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Norrland,Privat,Swish,KND-54619,,,,
+ORD-2025-00156,ORD-2025-00156-1,"February 22, 2025",2025-02-24,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Malmö,Privat,Swish,KND-51528,Levererad,Riktigt nöjd! Använder den dagligen.,2025-02-25,5
+ORD-2025-00157,ORD-2025-00157-1,2025-02-21,2025-02-24,SKU-LP001,Laptop Pro 15,Datorer,5,14999.00,Göteborg,Företag,Visa,KND-67599,Levererad,"Gör jobbet, men hade kunnat vara bättre.",2025-03-04,3
+ORD-2025-00157,ORD-2025-00157-2,2025-02-21,2025-02-24,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Göteborg,Bolag,KORT,KND-67599,Levererad,,,
+ORD-2025-00158,ORD-2025-00158-1,2025-01-21,2025-01-24,SKU-LP003,Laptop Gaming X,Datorer,2,18999.00,Linköping,Företag,Faktura,KND-86223,Levererad,,,
+ORD-2025-00158,ORD-2025-00158-2,2025-01-21,2025-01-24,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,3,1299.00,LINKÖPING,Företag,faktura,KND-86223,Levererad,,,
+ORD-2025-00158,ORD-2025-00158-3,2025-01-21,2025-01-24,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,en,1299.00,Linköping,Business,Invoice,KND-86223,Levererad,,,
+ORD-2025-00158,ORD-2025-00158-4,2025-01-21,2025-01-24,SKU-MS001,Trådlös Mus X1,Tillbehör,3,399.00,Linköping,Företag,Faktura,KND-86223,Levererad,Toppen! Exakt vad jag behövde.,2025-01-30,5
+ORD-2025-00158,ORD-2025-00158-5,2025-01-21,2025-01-24,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,3,699.00,Linköping,Företag,Faktura,KND-86223,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-26,5
+ORD-2025-00159,ORD-2025-00159-1,2025-02-04,10/02/2025,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,10,2499.00,Norrland,Företag,,KND-28581,Levererad,,,
+ORD-2025-00160,ORD-2025-00160-1,2025-02-08,2025-02-14,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Norrland,Privat,Faktura,KND-15448,Levererad,,,
+ORD-2025-00161,ORD-2025-00161-1,23.01.2025,2025-01-25,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Person,Kort,KND-42170,Levererad,,,
+ORD-2025-00161,ORD-2025-00161-2,2025-01-23,2025-01-25,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Kort,KND-42170,Skickad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-29,5
+ORD-2025-00162,ORD-2025-00162-1,2025-01-10,12/01/2025,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Gåteborg,Privat,Swish,KND-10807,Levererad,,,
+ORD-2025-00162,ORD-2025-00162-2,2025/01/10,2025-01-12,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,"5 999,00",Göteborg,Privat,Swish,KND-10807,Levererad,Slutade fungera efter två veckor. Dålig kvalitet.,2025-01-16,2
+ORD-2025-00163,ORD-2025-00163-1,2025-01-13,2025-01-15,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Mastercard,KND-16857,Levererad,Kan varmt rekommendera denna produkt.,2025-01-17,4
+ORD-2025-00163,ORD-2025-00163-2,13.01.2025,2025-01-15,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Privat,Kort,KND-16857,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-01-28,5
+ORD-2025-00237,ORD-2025-00237-2,2025-01-23,2025-01-27,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Uppsala,Företag,Faktura,KND-34283,Levererad,Toppen! Exakt vad jag behövde.,2025-02-02,5
+ORD-2025-00164,ORD-2025-00164-1,2025-01-23,2025-01-25,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockholm,Kund,Swish,KND-46129,Levererad,Väntade i över en vecka på leveransen. Oacceptabelt.,2025-02-01,1
+ORD-2025-00165,ORD-2025-00165-1,2025-01-27,2025-02-02,SKU-LP003,Laptop Gaming X,Datorer,"""1""",18999.00,Norrland,Kund,Swish,KND-28389,Levererad,,,
+ORD-2025-00166,ORD-2025-00166-1,2025-02-27,2025-03-02,SKU-WC001,Webbkamera HD,Tillbehör,1,799:-,,Privat,FAKTURA,KND-63964,Levererad,Standard. Inget att klaga på direkt.,2025-03-10,3
+ORD-2025-00166,ORD-2025-00166-2,2025-02-27,2025-03-02,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Linköping,Privat,Faktura,KND-63964,Levererad,Varken bra eller dåligt. Fungerar.,11/03/2025,3
+ORD-2025-00269,ORD-2025-00269-2,2025-02-05,2025-02-07,SKU-SP001,Bluetooth-högtalare,Ljud,2,899.00,Stocholm,Privat,FAKTURA,KND-93896,,,,
+ORD-2025-00167,ORD-2025-00167-1,2025-01-13,2025-01-16,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,3,5999.00,Malmö,Företag,Faktura,KND-70574,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-01-25,5
+ORD-2025-00167,ORD-2025-00167-2,2025-01-13,2025-01-16,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,MLM,Företag,Faktura,KND-70574,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-01-30,4
+ORD-2025-00168,ORD-2025-00168-1,2025-02-28,02.03.2025,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,kort,KND-93001,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-03-06,4
+ORD-2025-00169,ORD-2025-00169-1,2025-02-27,2025-03-01,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Stockholm,Företag,Faktura,KND-16849,Levererad,Mycket nöjd med köpet. Snabb leverans också!,2025-03-05,4
+ORD-2025-00169,ORD-2025-00169-2,2025-02-27,2025-03-01,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Sthlm.,Företag,Faktura,KND-16849,,,,
+ORD-2025-00169,ORD-2025-00169-3,2025-02-27,2025-03-01,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,2,5999.00,Stockholm,Företag,faktura,KND-16849,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-03-11,4
+ORD-2025-00169,ORD-2025-00169-4,2025-02-27,2025-03-01,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Stockholm,Företag,Faktura,KND-16849,Levererad,Riktigt nöjd! Använder den dagligen.,2025-03-02,4
+ORD-2025-00170,ORD-2025-00170-1,2025-01-29,2025-02-01,SKU-HS002,Headset Budget,Ljud,1,499.00,Stockholm,Företag,Faktura,KND-59643,Levererad,,,
+ORD-2025-00171,ORD-2025-00171-1,2025-02-01,2025-02-03,SKU-HS001,Headset Pro ANC,Ljud,3,1899.00,Stockholm,Företag,Faktura,KND-42070,Levererad,Inte alls nöjd. Kommer inte handla här igen.,2025-02-06,2
+ORD-2025-00155,ORD-2025-00155-2,2025-01-23,2025-01-30,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Norrland,Privat,Swish,KND-54619,,,,
+ORD-2025-00172,ORD-2025-00172-1,2025-02-20,2025-02-24,SKU-HS002,Headset Budget,Ljud,1,"499,00",Vasteras,Person,Swish,KND-48549,Levererad,Skärmen hade repor när den kom. Förpackningen var skadad.,2025-02-27,2
+ORD-2025-00172,ORD-2025-00172-2,2025-02-20,2025-02-24,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Västerås,Privat,,KND-48549,Levererad,,,
+ORD-2025-00173,ORD-2025-00173-1,2025-01-13,2025-01-16,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Örebro,Privat,Kort,KND-95815,Återsänd,,,
+ORD-2025-00174,ORD-2025-00174-1,2025-01-21,2025-01-24,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Privat,Mobilbetalning,KND-34753,Levererad,,,
+ORD-2025-00175,ORD-2025-00175-1,2025-02-02,2025-02-04,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Göteborg,Bolag,Faktura,KND-97318,Mottagen,Produkten gick sönder efter en månad.,2025-02-06,2
+ORD-2025-00175,ORD-2025-00175-2,2025-02-02,2025-02-04,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,10,4999.00,,Företag,Faktura,KND-97318,Levererad,"Leverans på två dagar, imponerad!",17/02/2025,5
+ORD-2025-00175,ORD-2025-00175-3,2025-02-02,2025-02-04,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Göteborg,Företag,FAKTURA,KND-97318,Levererad,Snabb leverans och produkten är fantastisk!,2025-02-09,5
+ORD-2025-00175,ORD-2025-00175-4,2025-02-02,2025-02-04,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,5,699.00,Göteborg,Företag,Faktura,KND-97318,Levererad,Medelmåttig upplevelse.,2025-02-11,3
+ORD-2025-00175,ORD-2025-00175-5,2025-02-02,2025-02-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Göteborg,Företag,Faktura,KND-97318,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-02-06,5
+ORD-2025-00176,ORD-2025-00176-1,2025-01-30,2025-02-02,SKU-SD001,Extern SSD 1TB,Lagring,"""1""",1199.00,Uppsala,Privat,Kort,KND-51759,Levererad,Snabb leverans och produkten är fantastisk!,2025-02-10,5
+ORD-2025-00177,ORD-2025-00177-1,2025-02-23,2025-02-26,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,"549,00",Stockholm,Person,Swish,KND-71374,Levererad,,,
+ORD-2025-00178,ORD-2025-00178-1,2025-02-22,2025-02-25,SKU-LP002,Laptop Budget 14,Datorer,1,SEK 7999,Sthlm.,Privat,Kreditkort,KND-79677,Levererad,Inte alls nöjd. Kommer inte handla här igen.,2025-03-02,2
+ORD-2025-00179,ORD-2025-00179-1,2025-01-15,2025-01-18,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699 kr,Örebro,Företag,Faktura,KND-39306,Levererad,,,
+ORD-2025-00180,ORD-2025-00180-1,2025-02-06,2025-02-09,SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Stockholm,Consumer,Kort,KND-94784,,,,
+ORD-2025-00181,ORD-2025-00181-1,2025-02-15,2025-02-18,SKU-WC001,Webbkamera HD,Tillbehör,1,799:-,Uppsala,Privat,Faktura,KND-25482,Levererad,,,
+ORD-2025-00182,ORD-2025-00182-1,2025-01-06,2025-01-08,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1 st,4999.00,,Företag,Kort,KND-53298,Levererad,Medelmåttig upplevelse.,2025-01-10,3
+ORD-2025-00182,ORD-2025-00182-2,2025-01-06,2025-01-08,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,2,699.00,Malmö,Företag,Kort,KND-53298,Levererad,Mycket sämre kvalitet än förväntat.,2025-01-22,1
+ORD-2025-00182,ORD-2025-00182-3,"January 06, 2025",2025-01-08,SKU-HS002,Headset Budget,Ljud,2,499.00,Malmö,Företag,Kort,KND-53298,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-01-22,5
+ORD-2025-00182,ORD-2025-00182-4,2025-01-06,2025-01-08,SKU-LP002,Laptop Budget 14,Datorer,2,7999.00,,Företag,Kort,KND-53298,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-01-06,5
+ORD-2025-00183,ORD-2025-00183-1,2025-01-11,2025-01-13,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Mastercard,KND-83334,Retur,Mycket nöjd med köpet. Snabb leverans också!,2025-01-19,4
+ORD-2025-00184,ORD-2025-00184-1,2025-02-04,2025-02-06,SKU-SD002,Extern SSD 500GB,Lagring,10,699.00,Sthlm.,Företag,Faktura,KND-74288,Levererad,Toppen! Exakt vad jag behövde.,2025-02-20,5
+ORD-2025-00184,ORD-2025-00184-2,2025-02-04,2025-02-06,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Företag,Faktura,KND-74288,Levererad,,,
+ORD-2025-00184,ORD-2025-00184-3,2025-02-04,2025-02-06,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Företag,Faktura,KND-74288,Levererad,,,
+ORD-2025-00185,ORD-2025-00185-1,2025-02-27,2025-03-01,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockholm,Privat,Swish,KND-10706,Skickad,,,
+ORD-2025-00186,ORD-2025-00186-1,2025-02-26,2025-03-01,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Consumer,Swish,KND-18237,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-02-24,5
+ORD-2025-00187,ORD-2025-00187-1,2025-01-16,2025-01-19,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Stockholm,Privat,Kort,KND-82309,Levererad,"Gör jobbet, men hade kunnat vara bättre.",2025-01-26,3
+ORD-2025-00187,ORD-2025-00187-2,2025-01-16,2025-01-19,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Kort,KND-82309,Levererad,,,
+ORD-2025-00187,ORD-2025-00187-3,2025-01-16,2025-01-19,SKU-LP001,Laptop Pro 15,Datorer,1,"14 999,00",Stockholm,Privat,Visa,KND-82309,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-25,4
+ORD-2025-00188,ORD-2025-00188-1,2025/01/29,2025-01-31,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Stockholm,Privat,Kort,KND-71147,Levererad,För dyrt för vad man får.,2025-02-06,2
+ORD-2025-00189,ORD-2025-00189-1,2025-01-11,2025-01-13,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Malmö,Privat,Swish,KND-18975,Levererad,,,
+ORD-2025-00189,ORD-2025-00189-2,2025-01-11,2025-01-13,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Malmö,Privat,Swish,KND-18975,Levererad,,,
+ORD-2025-00190,ORD-2025-00190-1,2025-02-16,2025-02-18,SKU-SD002,Extern SSD 500GB,Lagring,1,SEK 699,Stockholm,Privat,Swish,KND-14803,Levererad,Snabb leverans och produkten är fantastisk!,2025-02-25,5
+ORD-2025-00190,ORD-2025-00190-2,2025-02-16,2025-02-18,SKU-HS002,Headset Budget,Ljud,1,499.00,Stockholm,Privat,Swish,KND-14803,Levererad,,,
+ORD-2025-00191,ORD-2025-00191-1,2025-01-31,2025-02-02,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,3,4999.00,Göteborg,Företag,Faktura,KND-28124,,,,
+ORD-2025-00192,ORD-2025-00192-1,2025-01-28,2025-01-30,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Sthlm.,Privat,Faktura,KND-51182,Levererad,,,
+ORD-2025-00192,ORD-2025-00192-2,"January 28, 2025",2025-01-30,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Faktura,KND-51182,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-02-13,4
+ORD-2025-00193,ORD-2025-00193-1,2025-02-06,2025-02-09,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Stockholm,Privat,Faktura,KND-66759,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-02-18,4
+ORD-2025-00194,ORD-2025-00194-1,2025-02-02,2025-02-04,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Kort,KND-85829,Levererad,,,
+ORD-2025-00195,ORD-2025-00195-1,06.02.2025,2025-02-08,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,2,2499.00,Göteborg,Privat,Kort,KND-45181,Mottagen,,,
+ORD-2025-00195,ORD-2025-00195-2,2025-02-06,2025-02-08,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Göteborg,Person,Kort,KND-45181,,,,
+ORD-2025-00196,ORD-2025-00196-1,2025-02-21,2025-02-23,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Företag,Kort,KND-82766,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-03-08,5
+ORD-2025-00196,ORD-2025-00196-2,2025-02-21,2025-02-23,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Företag,Kort,KND-82766,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-02-26,5
+ORD-2025-00196,ORD-2025-00196-3,2025-02-21,2025-02-23,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,3,2499.00,Stockholm,Företag,Kort,KND-82766,Levererad,Bästa tangentbordet jag haft. Rekommenderar!,2025-03-07,4
+ORD-2025-00196,ORD-2025-00196-4,2025-02-21,2025-02-23,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,5,1299.00,Sthlm.,Företag,Kort,KND-82766,Levererad,Kan varmt rekommendera denna produkt.,2025-03-09,5
+ORD-2025-00197,ORD-2025-00197-1,2025-01-24,2025-01-29,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Norr,Privat,Swish,KND-98186,Levererad,,,
+ORD-2025-00198,ORD-2025-00198-1,2025-02-16,2025-02-19,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Gåteborg,Företag,Faktura,KND-14218,Levererad,Standard. Inget att klaga på direkt.,2025-03-03,3
+ORD-2025-00198,ORD-2025-00198-2,2025-02-16,2025-02-19,SKU-MS001,Trådlös Mus X1,Tillbehör,1st,399.00,Gåteborg,Företag,Faktura,KND-14218,Levererad,,,
+ORD-2025-00198,ORD-2025-00198-3,2025-02-16,2025-02-19,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Göteborg,Företag,Invoice,KND-14218,Levererad,,,
+ORD-2025-00198,ORD-2025-00198-4,2025-02-16,2025-02-19,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Göteborg,Företag,faktura,KND-14218,Levererad,,,
+ORD-2025-00199,ORD-2025-00199-1,2025-02-17,2025-02-20,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Göteborg,Privat,Swish,KND-14260,Levererad,"Den funkar. Inte mer, inte mindre.",2025-02-21,3
+ORD-2025-00199,ORD-2025-00199-2,2025-02-17,2025-02-20,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1 st,2499.00,Göteborg,Privat,Swish,KND-14260,Levererad,,,
+ORD-2025-00200,ORD-2025-00200-1,2025-01-20,2025-01-23,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Örebro,Privat,Visa,KND-24738,Levererad,"Helt okej, gör vad den ska.",2025-01-27,3
+ORD-2025-00200,ORD-2025-00200-2,2025-01-20,2025-01-23,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,örebro,Privat,Kort,KND-24738,Levererad,,,
+ORD-2025-00200,ORD-2025-00200-3,2025-01-20,2025-01-23,SKU-HS001,Headset Pro ANC,Ljud,2,1899.00,Örebro,Privat,Kort,KND-24738,Mottagen,,,
+ORD-2025-00201,ORD-2025-00201-1,2025-02-12,2025-02-15,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockholm,Privat,Kort,KND-63879,På väg,,,
+ORD-2025-00202,ORD-2025-00202-1,2025-02-27,2025-03-02,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Göteborg,Privat,Kort,KND-27721,Under transport,,,
+ORD-2025-00202,ORD-2025-00202-2,2025-02-27,2 mars 2025,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Göteborg,Privat,Kort,KND-27721,Under transport,,,
+ORD-2025-00203,ORD-2025-00203-1,2025-02-09,2025-02-12,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999:-,Goteborg,Privat,Kort,KND-63663,Mottagen,,,
+ORD-2025-00204,ORD-2025-00204-1,2025-01-19,2025-01-21,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Faktura,KND-90216,Levererad,,,
+ORD-2025-00205,ORD-2025-00205-1,2025-01-28,2025-02-01,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Linköping,Privat,Faktura,KND-82365,Skickad,,,
+ORD-2025-00206,ORD-2025-00206-1,2025-01-21,2025-01-24,SKU-HB001,USB-C Hub 7-port,Tillbehör,3,549.00,Malmö,Företag,Faktura,KND-13971,UNDER TRANSPORT,,,
+ORD-2025-00206,ORD-2025-00206-2,2025-01-21,2025-01-24,SKU-SD002,Extern SSD 500GB,Lagring,10,699.00,Malmö,Företag,Faktura,KND-13971,Under transport,,,
+ORD-2025-00206,ORD-2025-00206-3,2025-01-21,2025-01-24,SKU-MS001,Trådlös Mus X1,Tillbehör,5,399.00,Malmö,Business,Faktura,KND-13971,På väg,,,
+ORD-2025-00206,ORD-2025-00206-4,2025-01-21,2025-01-24,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Malmö,Företag,Faktura,KND-13971,På väg,,,
+ORD-2025-00207,ORD-2025-00207-1,2025-02-28,2025-03-02,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Göteborg,Privat,FAKTURA,KND-59834,Levererad,Kan varmt rekommendera denna produkt.,2025-03-03,5
+ORD-2025-00208,ORD-2025-00208-1,2025-02-28,2025-03-02,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Consumer,swish,KND-76808,Mottagen,Super! Kommer definitivt handla här igen.,2025-03-12,5
+ORD-2025-00050,ORD-2025-00050-1,2025-02-07,2025-02-09,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockolm,Privat,,KND-16916,under transport,,,
+ORD-2025-00209,ORD-2025-00209-1,2025-01-18,2025-01-21,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Linköping,Kund,Swish,KND-40029,Levererad,Medelmåttig upplevelse.,2025-01-28,3
+ORD-2025-00210,ORD-2025-00210-1,2025-02-23,2025-02-26,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Göteborg,Person,Kort,KND-18336,Levererad,,,
+ORD-2025-00210,ORD-2025-00210-2,2025-02-23,2025-02-26,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Göteborg,Privat,Kort,KND-18336,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-03-09,5
+ORD-2025-00211,ORD-2025-00211-1,2025-02-11,2025-02-13,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Swish,KND-18054,Skickad,Bästa tangentbordet jag haft. Rekommenderar!,2025-02-24,5
+ORD-2025-00212,ORD-2025-00212-1,2025-01-12,2025-01-14,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockolm,Privat,Faktura,KND-10387,Levererad,,,
+ORD-2025-00212,ORD-2025-00212-2,2025-01-12,2025-01-14,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Faktura,KND-10387,Levererad,"Fungerar utmärkt, inga problem alls.",2025-01-26,4
+ORD-2025-00213,ORD-2025-00213-1,2025-02-04,2025-02-06,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,,Person,Kort,KND-23574,Levererad,,,
+ORD-2025-00214,ORD-2025-00214-1,2025-02-05,2025-02-07,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Göteborg,Företag,Faktura,KND-62824,Skickad,Super! Kommer definitivt handla här igen.,2025-02-19,5
+ORD-2025-00214,ORD-2025-00214-2,2025-02-05,07/02/2025,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,5,699.00,Göteborg,Företag,Faktura,KND-62824,Levererad,Toppen! Exakt vad jag behövde.,2025-02-09,5
+ORD-2025-00214,ORD-2025-00214-3,2025-02-05,2025-02-07,SKU-LP003,Laptop Gaming X,Datorer,3,18999.00,Göteborg,Företag,Faktura,KND-62824,LEVERERAD,,,
+ORD-2025-00214,ORD-2025-00214-4,2025-02-05,2025-02-07,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Göteborg,Företag,Faktura,KND-62824,Levererad,,,
+ORD-2025-00215,ORD-2025-00215-1,2025-01-13,2025-01-16,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Företag,FAKTURA,KND-71902,Levererad,Helt underbar kvalitet för pengarna.,2025-01-27,5
+ORD-2025-00215,ORD-2025-00215-2,2025-01-13,2025-01-16,SKU-HB001,USB-C Hub 7-port,Tillbehör,3,SEK 549,Stockholm,Företag,Faktura,KND-71902,Levererad,Kan varmt rekommendera denna produkt.,2025-01-17,4
+ORD-2025-00215,ORD-2025-00215-3,2025-01-13,16 januari 2025,SKU-HS001,Headset Pro ANC,Ljud,5,1899.00,Stockholm,Företag,Faktura,KND-71902,Levererad,,,
+ORD-2025-00216,ORD-2025-00216-1,2025-01-18,2025-01-20,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,Kort,KND-39268,Levererad,Helt underbar kvalitet för pengarna.,2025-01-27,4
+ORD-2025-00217,ORD-2025-00217-1,2025-02-10,2025-02-12,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Malmö,Privat,Swish,KND-15517,Under transport,,,
+ORD-2025-00218,ORD-2025-00218-1,2025-01-06,08.01.2025,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Företag,Faktura,KND-27204,Retur,,,
+ORD-2025-00218,ORD-2025-00218-2,2025-01-06,2025-01-08,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,3,1299.00,Stockolm,Företag,Faktura,KND-27204,Retur,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-18,5
+ORD-2025-00218,ORD-2025-00218-3,2025-01-06,2025-01-08,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Stockholm,Corp,,KND-27204,Retur,Super! Kommer definitivt handla här igen.,2025-01-16,4
+ORD-2025-00219,ORD-2025-00219-1,2025-01-28,2025-01-31,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Stockholm,Privat,Swish,KND-43462,Levererad,Riktigt nöjd! Använder den dagligen.,"February 10, 2025",5
+ORD-2025-00219,ORD-2025-00219-2,2025-01-28,2025-01-31,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stocholm,Privat,Swish,KND-43462,Mottagen,,,
+ORD-2025-00220,ORD-2025-00220-1,2025-02-21,2025-02-24,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,10,5999.00,Stockholm,Företag,Kort,KND-97300,Levererad,,,
+ORD-2025-00220,ORD-2025-00220-2,2025-02-21,2025-02-24,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stocholm,Företag,Kort,KND-97300,Levererad,"Fungerar utmärkt, inga problem alls.",2025-03-09,4
+ORD-2025-00220,ORD-2025-00220-3,2025-02-21,2025-02-24,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Stockholm,Företag,Kort,KND-97300,Levererad,"Leverans på två dagar, imponerad!",2025-03-07,4
+ORD-2025-00221,ORD-2025-00221-1,2025-02-12,2025-02-14,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,Stockholm,Person,Kort,KND-80095,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-02-26,5
+ORD-2025-00222,ORD-2025-00222-1,2025-01-09,2025-01-12,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,5,1299.00,Malmö,Företag,Faktura,KND-96862,,,,
+ORD-2025-00222,ORD-2025-00222-2,2025-01-09,2025-01-12,SKU-SD001,Extern SSD 1TB,Lagring,2,1199.00,Malmö,Företag,Faktura,KND-96862,LEVERERAD,,,
+ORD-2025-00222,ORD-2025-00222-3,2025-01-09,2025-01-12,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Malmö,Företag,Faktura,KND-96862,Levererad,För dyrt för vad man får.,2025-01-07,2
+ORD-2025-00223,ORD-2025-00223-1,2025-02-13,2025-02-16,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Linköping,Privat,Swish,KND-88434,Levererad,,,
+ORD-2025-00224,ORD-2025-00224-1,2025-02-17,2025-02-23,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Norrland,Privat,Swish,KND-31916,Levererad,Mycket sämre kvalitet än förväntat.,2025-02-28,2
+ORD-2025-00225,ORD-2025-00225-1,2025-02-21,23/02/2025,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599.00,Malmö,Consumer,Faktura,KND-57156,Under transport,,,
+ORD-2025-00226,ORD-2025-00226-1,2025-01-01,2025-01-04,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Kort,KND-77630,Levererad,,,
+ORD-2025-00226,ORD-2025-00226-2,2025-01-01,2025-01-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Stockholm,Privat,Kort,KND-77630,Levererad,,,
+ORD-2025-00227,ORD-2025-00227-1,2025-01-07,2025-01-10,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Örebro,Privat,KORT,KND-90157,Retur,Riktigt nöjd! Använder den dagligen.,2025-01-13,4
+ORD-2025-00228,ORD-2025-00228-1,2025-02-20,2025-02-23,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Stockholm,Privat,Swish,KND-70845,Levererad,,,
+ORD-2025-00228,ORD-2025-00228-2,2025-02-20,2025-02-23,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399:-,Stockholm,Privat,swish,KND-70845,LEVERERAD,,,
+ORD-2025-00229,ORD-2025-00229-1,2025-02-12,2025-02-14,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Göteborg,Privat,Kort,KND-82129,Levererad,Skärmen hade repor när den kom. Förpackningen var skadad.,2025-02-23,1
+ORD-2025-00229,ORD-2025-00229-2,2025-02-12,2025-02-14,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Göteborg,Privat,Kort,KND-82129,Levererad,,,
+ORD-2025-00230,ORD-2025-00230-1,2025-02-27,2025-03-02,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Stockholm,Privat,SWISH,KND-33770,Levererad,"Leverans på två dagar, imponerad!",2025-03-04,5
+ORD-2025-00231,ORD-2025-00231-1,2025-01-09,2025-01-13,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Uppsala,Privat,Kort,KND-37960,Levererad,Medelmåttig upplevelse.,2025-01-17,3
+ORD-2025-00231,ORD-2025-00231-2,2025-01-09,2025-01-13,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,uppsala,Privat,Kort,KND-37960,Levererad,,,
+ORD-2025-00232,ORD-2025-00232-1,2025-02-09,2025-02-12,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Stockholm,Privat,Kort,KND-54347,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-02-16,4
+ORD-2025-00232,ORD-2025-00232-2,2025-02-09,2025-02-12,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Stockholm,Privat,Kort,KND-54347,Levererad,Mycket nöjd med köpet. Snabb leverans också!,2025-02-16,4
+ORD-2025-00233,ORD-2025-00233-1,2025-01-01,2025-01-03,SKU-HS002,Headset Budget,Ljud,1,499.00,Sthlm.,Privat,Swish,KND-21636,Levererad,Mycket nöjd med köpet. Snabb leverans också!,2025-01-11,5
+ORD-2025-00234,ORD-2025-00234-1,2025-01-02,"January 04, 2025",SKU-WC001,Webbkamera HD,Tillbehör,2,799.00,Stockholm,Företag,Kort,KND-29286,Levererad,,,
+ORD-2025-00234,ORD-2025-00234-2,2025-01-02,2025-01-04,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,3,699.00,Stockholm,Företag,Kort,KND-29286,Levererad,,,
+ORD-2025-00235,ORD-2025-00235-1,2025-01-27,2025-01-30,SKU-HS001,Headset Pro ANC,Ljud,2,1899.00,Stockholm,Privat,Kort,KND-54881,Levererad,,,
+ORD-2025-00236,ORD-2025-00236-1,2025-02-17,2025-02-19,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,1,5999.00,Stockholm,Privat,Mobilbetalning,KND-41782,Levererad,Super! Kommer definitivt handla här igen.,2025-02-22,4
+ORD-2025-00237,ORD-2025-00237-1,2025-01-23,27.01.2025,SKU-MS001,Trådlös Mus X1,Tillbehör,2,399.00,Uppsala,Företag,Invoice,KND-34283,Levererad,Varken bra eller dåligt. Fungerar.,2025-01-25,3
+ORD-2025-00237,ORD-2025-00237-2,2025-01-23,2025-01-27,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Uppsala,Företag,Faktura,KND-34283,Levererad,Toppen! Exakt vad jag behövde.,2025-02-02,5
+ORD-2025-00238,ORD-2025-00238-1,2025-02-16,2025-02-19,SKU-WC001,Webbkamera HD,Tillbehör,1,799.00,Linköping,Privat,Swish,KND-28068,Levererad,Helt underbar kvalitet för pengarna.,2025-02-28,4
+ORD-2025-00239,ORD-2025-00239-1,2025-01-05,2025-01-08,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599 kr,Stockolm,Privat,Kort,KND-59475,Levererad,Överträffade mina förväntningar. 5 av 5!,2025-01-21,4
+ORD-2025-00240,ORD-2025-00240-1,2025-02-02,05.02.2025,SKU-HS002,Headset Budget,Ljud,1,499.00,Stockholm,Företag,Kort,KND-99774,Levererad,Helt underbar kvalitet för pengarna.,2025-02-07,5
+ORD-2025-00241,ORD-2025-00241-1,2025-02-19,2025-02-22,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,3,4999.00,Stockholm,Företag,Faktura,KND-22578,Levererad,,,
+ORD-2025-00241,ORD-2025-00241-2,2025-02-19,2025-02-22,SKU-SD001,Extern SSD 1TB,Lagring,tre,1199.00,Stockholm,Företag,Faktura,KND-22578,Levererad,Okej produkt för pengarna.,2025-02-24,3
+ORD-2025-00241,ORD-2025-00241-3,2025-02-19,2025-02-22,SKU-LP001,Laptop Pro 15,Datorer,5,14999.00,Stockholm,Bolag,Faktura,KND-22578,Levererad,,,
+ORD-2025-00242,ORD-2025-00242-1,2025-02-16,2025-02-19,SKU-MS001,Trådlös Mus X1,Tillbehör,3,399.00,Malmö,Företag,Faktura,KND-24913,Levererad,"Leverans på två dagar, imponerad!",26/02/2025,4
+ORD-2025-00242,ORD-2025-00242-2,2025-02-16,"February 19, 2025",SKU-HB001,USB-C Hub 7-port,Tillbehör,2,549.00,Malmö,Företag,FAKTURA,KND-24913,Levererad,,,
+ORD-2025-00242,ORD-2025-00242-3,2025-02-16,2025-02-19,SKU-SP001,Bluetooth-högtalare,Ljud,5,899.00,Malmö,Företag,FAKTURA,KND-24913,Mottagen,"Leverans på två dagar, imponerad!",2025-02-21,5
+ORD-2025-00242,ORD-2025-00242-4,2025-02-16,2025-02-14,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,2,2499.00,Malmö,Företag,Faktura,KND-24913,Levererad,,,
+ORD-2025-00243,ORD-2025-00243-1,2025-02-05,2025-02-08,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Malmö,Företag,Faktura,KND-60436,Retur,,,
+ORD-2025-00244,ORD-2025-00244-1,2025-02-07,2025-02-10,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Företag,Faktura,KND-74196,Levererad,,,
+ORD-2025-00245,ORD-2025-00245-1,2025-01-10,2025-01-13,SKU-HS002,Headset Budget,Ljud,1,499.00,Västerås,Privat,Kort,KND-78473,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-01-23,4
+ORD-2025-00246,ORD-2025-00246-1,2025-01-31,2025-02-03,SKU-SD002,Extern SSD 500GB,Lagring,1,699 kr,Göteborg,Privat,Faktura,KND-81696,Levererad,,,
+ORD-2025-00247,ORD-2025-00247-1,2025-01-20,2025-01-23,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,Örebro,Privat,Kort,KND-27928,Levererad,,,
+ORD-2025-00248,ORD-2025-00248-1,2025-01-24,2025-01-27,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,Kort,KND-72611,Levererad,Prisvärt och bra kvalitet. Kommer köpa igen.,2025-02-03,5
+ORD-2025-00249,ORD-2025-00249-1,2025-02-22,2025-02-24,SKU-MS001,Trådlös Mus X1,Tillbehör,en,399.00,Göteborg,Kund,Kort,KND-65852,Levererad,Riktigt nöjd! Använder den dagligen.,2025-02-26,5
+ORD-2025-00250,ORD-2025-00250-1,2025-01-18,2025-01-20,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Goteborg,Privat,Kort,KND-70881,Levererad,Bra pris och hög kvalitet. Nöjd kund!,2025-01-27,4
+ORD-2025-00250,ORD-2025-00250-2,18.01.2025,2025-01-20,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Göteborg,Privat,Kort,KND-70881,Levererad,"Leverans på två dagar, imponerad!",2025-02-02,4
+ORD-2025-00250,ORD-2025-00250-3,2025-01-18,2025-01-20,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Göteborg,Privat,Kort,KND-70881,Levererad,,,
+ORD-2025-00251,ORD-2025-00251-1,2025-01-04,2025-01-06,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,Kort,KND-11391,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-01-18,4
+ORD-2025-00251,ORD-2025-00251-2,2025-01-04,2025-01-06,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Malmö,Privat,Kort,KND-11391,Levererad,För dyrt för vad man får.,2025-01-16,2
+ORD-2025-00252,ORD-2025-00252-1,2025-02-16,20 februari 2025,SKU-HS002,Headset Budget,Ljud,1,499 kr,Uppsala,Privat,Mobilbetalning,KND-34037,Levererad,,,
+ORD-2025-00253,ORD-2025-00253-1,2025-01-16,2025-01-19,SKU-HS001,Headset Pro ANC,Ljud,1,1899 kr,stckhlm,Privat,Kort,KND-37241,,,,
+ORD-2025-00253,ORD-2025-00253-2,2025-01-16,2025-01-19,SKU-HB001,USB-C Hub 7-port,Tillbehör,"""1""",549.00,Stockholm,Privat,Kort,KND-37241,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-01-20,4
+ORD-2025-00254,ORD-2025-00254-1,2025-01-01,2025-01-03,SKU-LP001,Laptop Pro 15,Datorer,1,14999.00,Stockholm,Privat,Faktura,KND-60306,,,,
+ORD-2025-00255,ORD-2025-00255-1,2025-02-06,2025-02-08,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,Göteborg,Privat,Kreditkort,KND-86090,Levererad,Fantastisk produkt! Fungerar precis som utlovat.,2025-02-14,5
+ORD-2025-00255,ORD-2025-00255-2,2025-02-06,2025-02-08,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Göteborg,Privat,Kort,KND-86090,Levererad,,,
+ORD-2025-00256,ORD-2025-00256-1,2025-02-05,2025-02-08,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Örebro,Företag,Faktura,KND-14350,Levererad,,,
+ORD-2025-00256,ORD-2025-00256-2,2025-02-05,2025-02-08,SKU-SD002,Extern SSD 500GB,Lagring,2,699.00,Örebro,Företag,Faktura,KND-14350,Levererad,,,
+ORD-2025-00256,ORD-2025-00256-3,2025-02-05,2025-02-08,SKU-HB001,USB-C Hub 7-port,Tillbehör,3,549.00,Örebro,Företag,Faktura,KND-14350,Levererad,Genomsnittlig kvalitet. Inget speciellt.,19.02.2025,3
+ORD-2025-00257,ORD-2025-00257-1,2025-01-19,2025-01-21,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Faktura,KND-13534,Skickad,Kan varmt rekommendera denna produkt.,2025-01-27,4
+ORD-2025-00258,ORD-2025-00258-1,2025-02-14,2025-02-16,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Malmö,Privat,Kort,KND-28632,Under transport,,,
+ORD-2025-00259,ORD-2025-00259-1,2025-01-28,2025-01-30,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Stockholm,Privat,Faktura,KND-36841,Levererad,,,
+ORD-2025-00259,ORD-2025-00259-2,2025-01-28,2025/01/30,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,"1 299,00",Stockholm,Privat,Faktura,KND-36841,Levererad,,,
+ORD-2025-00260,ORD-2025-00260-1,2025-01-18,2025-01-20,SKU-LP002,Laptop Budget 14,Datorer,en,7999:-,Stockholm,Privat,swish,KND-20727,Retur,Super! Kommer definitivt handla här igen.,2025-02-02,4
+ORD-2025-00261,ORD-2025-00261-1,2025-01-25,2025-01-28,SKU-LP002,Laptop Budget 14,Datorer,1,7999.00,Malmö,Consumer,Swish,KND-26717,Retur,,,
+ORD-2025-00262,ORD-2025-00262-1,2025-02-02,2025-02-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1st,599.00,MLM,Privat,Swish,KND-85212,,,,
+ORD-2025-00263,ORD-2025-00263-1,2025-01-22,2025-01-24,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Privat,Swish,KND-51852,Levererad,,,
+ORD-2025-00264,ORD-2025-00264-1,2025-01-15,2025-01-18,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Faktura,KND-30018,Levererad,Medelmåttig upplevelse.,2025-02-01,3
+ORD-2025-00265,ORD-2025-00265-1,2025-01-15,2025-01-17,SKU-LP003,Laptop Gaming X,Datorer,2,18999.00,Malmö,Privat,Mobilbetalning,KND-56086,Levererad,,,
+ORD-2025-00265,ORD-2025-00265-2,2025-01-15,2025-01-17,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,MLM,Privat,Swish,KND-56086,,,,
+ORD-2025-00265,ORD-2025-00265-3,2025-01-15,2025-01-17,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Malmö,Privat,Swish,KND-56086,Levererad,,,
+ORD-2025-00266,ORD-2025-00266-1,2025-01-23,2025-01-25,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Privat,Faktura,KND-55529,Levererad,,,
+ORD-2025-00162,ORD-2025-00162-1,2025-01-10,12/01/2025,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Gåteborg,Privat,Swish,KND-10807,Levererad,,,
+ORD-2025-00267,ORD-2025-00267-1,2025-01-21,2025-01-24,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Stockholm,Privat,Swish,KND-55462,Levererad,,,
+ORD-2025-00268,ORD-2025-00268-1,2025-01-23,2025-01-26,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Stockholm,Privat,kort,KND-81785,RETUR,Mycket sämre kvalitet än förväntat.,2025-01-28,2
+ORD-2025-00269,ORD-2025-00269-1,2025-02-05,2025-02-07,SKU-MS001,Trådlös Mus X1,Tillbehör,1,399.00,Stockholm,Privat,FAKTURA,KND-93896,Levererad,,,
+ORD-2025-00269,ORD-2025-00269-2,2025-02-05,2025-02-07,SKU-SP001,Bluetooth-högtalare,Ljud,2,899.00,Stocholm,Privat,FAKTURA,KND-93896,,,,
+ORD-2025-00270,ORD-2025-00270-1,2025-01-17,2025-01-21,SKU-SD001,Extern SSD 1TB,Lagring,1,1199.00,Linköping,Privat,Swish,KND-52631,Levererad,Leveransen tog alldeles för lång tid.,2025-01-29,1
+ORD-2025-00271,ORD-2025-00271-1,2025-01-16,2025-01-19,SKU-HS002,Headset Budget,Ljud,1,499.00,Stockolm,Privat,Swish,KND-81474,,,,
+ORD-2025-00272,ORD-2025-00272-1,2025-01-16,2025-01-21,SKU-HS002,Headset Budget,Ljud,1,499.00,Norrland,Privat,Swish,KND-11770,Retur,Inte alls nöjd. Kommer inte handla här igen.,2025-01-30,2
+ORD-2025-00273,ORD-2025-00273-1,2025-02-26,2025-02-28,SKU-HS001,Headset Pro ANC,Ljud,"""1""",1899.00,Göteborg,Privat,Kort,KND-66820,Levererad,Snabb leverans och produkten är fantastisk!,2025-03-08,5
+ORD-2025-00184,ORD-2025-00184-1,2025-02-04,2025-02-06,SKU-SD002,Extern SSD 500GB,Lagring,10,699.00,Sthlm.,Företag,Faktura,KND-74288,Levererad,Toppen! Exakt vad jag behövde.,2025-02-20,5
+ORD-2025-00274,ORD-2025-00274-1,2025-01-26,01.02.2025,SKU-HB001,USB-C Hub 7-port,Tillbehör,2,549.00,Norrland,Privat,faktura,KND-64098,Levererad,"Helt okej, gör vad den ska.",2025-02-14,3
+ORD-2025-00274,ORD-2025-00274-2,2025-01-26,2025-02-01,SKU-SD002,Extern SSD 500GB,Lagring,1,699.00,,Privat,Invoice,KND-64098,Mottagen,,,
+ORD-2025-00275,ORD-2025-00275-1,2025-02-20,2025-02-23,SKU-SP001,Bluetooth-högtalare,Ljud,1,899.00,Malmö,Consumer,Kort,KND-46257,Levererad,Produkten gick sönder efter en månad.,2025-02-26,1
+ORD-2025-00276,ORD-2025-00276-1,2025-01-25,2025-01-28,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,1,1299.00,Malmö,Kund,Kort,KND-45697,Levererad,"Leveransen tog lite längre än utlovat, men produkten är ok.",2025-02-09,3
+ORD-2025-00277,ORD-2025-00277-1,2025-01-01,4 januari 2025,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,2,699.00,Stockholm,Företag,Faktura,KND-30550,Levererad,Helt underbar kvalitet för pengarna.,17.01.2025,5
+ORD-2025-00277,ORD-2025-00277-2,2025-01-01,2025-01-04,SKU-MS002,Ergonomisk Mus Pro,Tillbehör,1,699.00,stckhlm,Företag,Faktura,KND-30550,Levererad,Super! Kommer definitivt handla här igen.,2025-01-16,5
+ORD-2025-00277,ORD-2025-00277-3,2025-01-01,2025-01-04,SKU-HB001,USB-C Hub 7-port,Tillbehör,1,549.00,Stockholm,Företag,Faktura,KND-30550,Levererad,,,
+ORD-2025-00277,ORD-2025-00277-4,2025-01-01,2025-01-04,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,,Företag,Faktura,KND-30550,,,,
+ORD-2025-00277,ORD-2025-00277-5,2025-01-01,2025-01-04,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,3,5999.00,Stockholm,Företag,,KND-30550,Skickad,"Leverans på två dagar, imponerad!",2025-01-06,5
+ORD-2025-00278,ORD-2025-00278-1,2025-02-15,2025-02-18,SKU-HS001,Headset Pro ANC,Ljud,1,1899.00,Uppsala,Företag,faktura,KND-63473,Under transport,,,
+ORD-2025-00278,ORD-2025-00278-2,2025-02-15,2025-02-18,SKU-KB001,Mekaniskt Tangentbord K7,Tillbehör,2,1299.00,Uppsala,Business,Faktura,KND-63473,Under transport,,,
+ORD-2025-00278,ORD-2025-00278-3,2025-02-15,2025-02-18,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,1,599.00,Uppsala,Business,Faktura,KND-63473,Under transport,,,
+ORD-2025-00278,ORD-2025-00278-4,2025-02-15,2025-02-18,SKU-KB002,Kompakt Tangentbord Mini,Tillbehör,2,599.00,UPPSALA,Företag,Faktura,KND-63473,Under transport,,,
+ORD-2025-00279,ORD-2025-00279-1,2025-01-23,2025-01-25,SKU-LP003,Laptop Gaming X,Datorer,1,18999.00,Malmö,Privat,Swish,KND-18966,Levererad,Medelmåttig upplevelse.,2025-02-07,3
+ORD-2025-00280,ORD-2025-00280-1,2025-02-24,2025-02-26,SKU-MN003,"Bildskärm 32"" Curved",Bildskärmar,2,5999.00,Stockholm,Business,Faktura,KND-38574,Levererad,"Smidigt att beställa, produkten kom snabbt och fungerar perfekt.",2025-03-01,5
+ORD-2025-00280,ORD-2025-00280-2,2025-02-24,2025-02-26,SKU-SD002,Extern SSD 500GB,Lagring,5,699.00,Stockholm,Företag,Faktura,KND-38574,Levererad,Snabb leverans och produkten är fantastisk!,2025-02-27,5
+ORD-2025-00280,ORD-2025-00280-3,2025-02-24,2025-02-21,SKU-MN002,"Bildskärm 24"" FHD",Bildskärmar,1,2499.00,Sthlm.,Företag,Faktura,KND-38574,,,,
+ORD-2025-00281,ORD-2025-00281-1,2025-02-08,2025-02-10,SKU-MN001,"Bildskärm 27"" UHD",Bildskärmar,1,4999.00,Stockholm,Consumer,Faktura,KND-98230,Levererad,,,
+ORD-2025-00282,ORD-2025-00282-1,2025-01-10,2025-01-12,SKU-LP003,Laptop Gaming X,Datorer,2,18999.00,Stockholm,Företag,Faktura,KND-31198,Skickad,"Helt okej, gör vad den ska.",2025-01-13,3

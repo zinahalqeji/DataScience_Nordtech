@@ -133,3 +133,35 @@ def clean_kundtyp(df):
 
     df["kundtyp"] = col
     return df
+
+def clean_leveransstatus(df):
+
+    col = (
+        df["leveransstatus"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+    )
+
+    mapping = {
+        "levererad": "delivered",
+        "mottagen": "received",
+        "skickad": "sent",
+        "under transport": "in_transit",
+        "på väg": "in_transit",
+        "pa väg": "in_transit",
+        "pa vag": "in_transit",
+        "retur": "returned",
+        "returnerad": "returned",
+        "återsänd": "returned",
+        "atersand": "returned",
+    }
+
+    col = col.replace(mapping)
+
+    # Replace string "nan" or empty with unknown
+    col = col.replace(["nan", "none", ""], "unknown")
+
+    df["leveransstatus"] = col
+    return df
+

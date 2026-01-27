@@ -41,9 +41,15 @@ def clean_region(df):
         "orebro": "örebro",
         "vasteras": "västerås",
         "norr": "norrland",
-        "nan": "unknown",
     }
-    df["region"] = df["region"].astype(str).str.strip().str.lower().replace(mapping)
+    df["region"] = (
+        df["region"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+        .replace("nan", None)
+        .replace(mapping)
+    )
 
     return df
 
@@ -60,7 +66,11 @@ def clean_payment(df):
     }
 
     df["betalmetod"] = (
-        ["betalmetod"].astype(str).str.strip().str.lower().replace(mapping)
+        ["betalmetod"].astype(str)
+        .str.strip()
+        .str.lower()
+        .replace("nan", None)
+        .replace(mapping)
     )
 
     df["betalmetod"] = df["betalmetod"].fillna("unknown")

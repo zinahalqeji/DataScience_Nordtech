@@ -7,13 +7,19 @@ def clean_column_names(df):
     return df
 
 
+def clean_id_columns(df):
+    id_cols = ["order_id", "orderrad_id", "kund_id", "produkt_sku"]
+    for col in id_cols:
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.strip()
+    return df
+
+
 def clean_date(df):
     date_cols = ["orderdatum", "leveransdatum", "recensionsdatum"]
-
     for col in date_cols:
         if col in df.columns:
             df[col] = pd.to_datetime(df[col], errors="coerce")
-
     return df
 
 
@@ -71,7 +77,8 @@ def clean_payment(df):
     }
 
     df["betalmetod"] = (
-        ["betalmetod"].astype(str)
+        df["betalmetod"]
+        .astype(str)
         .str.strip()
         .str.lower()
         .replace("nan", None)
@@ -168,17 +175,64 @@ def clean_betyg(df):
     df["betyg"] = df["betyg"].clip(lower=1, upper=5)
 
     # Fill missing with mean
-    df["betyg"] = df["betyg"].fillna(df["betyg"].mean())
+    df["betyg"] = df["betyg"].fillna(df["betyg"].median())
 
     return df
 
+
 def remove_duplicates(df, unique_keys=None):
-   
     # 1. Remove full-row duplicates
     df = df.drop_duplicates()
 
     # 2. If unique keys are provided, enforce uniqueness
     if unique_keys:
         df = df.drop_duplicates(subset=unique_keys, keep="first")
-        
+
+    return df
+
+def fix_reversed_dates(df):
+    if "orderdatum" not in df.columns or "leveransdatum" not in df.columns:
+        return df
+    order = df["orderdatum"]
+    delivery = df["leveransdatum"]
+    mask = delivery < order
+    df.loc[mask, ["orderdatum", "leveransdatum"]] = df.loc[
+        mask, ["leveransdatum", "orderdatum"]
+    ].values
+    return df
+
+
+def clean_recension_text(df):
+    if "recension_text" not in df.columns:
+        return df
+
+    # Convert to string and strip whitespace (safe even if no whitespace exists)
+    col = df["recension_text"].astype(str).str.strip()
+
+    # Replace placeholder strings with real NaN
+    col = col.replace(
+        ["nan", "none", "null", "na", ""], 
+        np.nan
+    )
+
+    df["recension_text"] = col
+    return df
+
+
+
+def clean_all(df):
+    df = clean_column_names(df)
+    df = clean_id_columns(df)
+    df = clean_date(df)
+    df = fix_reversed_dates(df)
+    df = clean_prices(df)
+    df = clean_region(df)
+    df = clean_payment(df)
+    df = clean_antal(df)
+    df = clean_kundtyp(df)
+    df = clean_leveransstatus(df)
+    df = clean_betyg(df)
+    df = clean_recension_text(df)
+    df = remove_duplicates(df)
+
     return df

@@ -158,3 +158,16 @@ def clean_leveransstatus(df):
 
     df["leveransstatus"] = col
     return df
+
+
+def clean_betyg(df):
+    # Convert to numeric
+    df["betyg"] = pd.to_numeric(df["betyg"], errors="coerce")
+
+    # Clip invalid values
+    df["betyg"] = df["betyg"].clip(lower=1, upper=5)
+
+    # Fill missing with mean
+    df["betyg"] = df["betyg"].fillna(df["betyg"].mean())
+
+    return df

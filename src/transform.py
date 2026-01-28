@@ -171,3 +171,14 @@ def clean_betyg(df):
     df["betyg"] = df["betyg"].fillna(df["betyg"].mean())
 
     return df
+
+def remove_duplicates(df, unique_keys=None):
+   
+    # 1. Remove full-row duplicates
+    df = df.drop_duplicates()
+
+    # 2. If unique keys are provided, enforce uniqueness
+    if unique_keys:
+        df = df.drop_duplicates(subset=unique_keys, keep="first")
+        
+    return df
